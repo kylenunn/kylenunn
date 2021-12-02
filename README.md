@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and mountain streams.
 - 🌱 I’m currently learning Python, Tableau, and Power BI.
 - 💞️ I’m looking to collaborate on pretty much anything!
-- 📫 How to reach me - on here if that's possible.
+- 📫 How to reach me - https://www.linkedin.com/in/kyle-nunn-mba/.
 
 <!---
 kylenunn/kylenunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
